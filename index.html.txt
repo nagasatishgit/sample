@@ -19,6 +19,7 @@
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\star.HTML">administration</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">transport</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">Downloads</A>
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">Downloads</A>
 </td>
 <td = width="15%">
